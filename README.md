@@ -34,10 +34,6 @@ Diese Seite hat Jonas Mlinar im Leistungsnachweis "Maturarbeiten betreuen" an de
 4. I. Short: Ford circles, continued fractions, and best approximation of the second kind. [arXiv:0912.1997](https://arxiv.org/abs/0912.1997) (2009).
 5. J. Swinton, E. Ochu, The MSI Turing's Sunflower Consortium: Novel Fibonacci and non-Fibonacci structure in the sunflower. *Royal Society Open Science* 3 (2016), 160091. [doi:10.1098/rsos.160091](https://doi.org/10.1098/rsos.160091)
 
-## Rechte
-
-© 2026 Jonas Mlinar. Alle Rechte vorbehalten. Die Seite enthält die Bibliotheken KaTeX und marked unter der MIT-Lizenz; die Lizenztexte stehen in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
-
 ---
 
 ## In English
