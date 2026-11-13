@@ -22,42 +22,6 @@ Für Maturandinnen und Maturanden mit gutem mathematischem Grundverständnis, im
 | E4 Die Sonnenblume | Spiralen zählen, Vergleich mit dem Lucas-Winkel | Die Spiralzahlen sind die Rekordhalter des goldenen Winkels. |
 | Quellen und Methoden | Modell, Zählregel, Belege | was bewiesen, zitiert oder nur beobachtet ist |
 
-Jede Station folgt demselben Ablauf: Frage, Vorhersage, Erkunden, Erklärung, Merksatz. Vertiefungen lassen sich unter "Genauer hingeschaut" aufklappen.
-
-## Bedienung
-
-- **Stationen wählen:** Kopfzeile (E1 bis E4, Quellen und Methoden) oder der Knopf unten rechts.
-- **Innerhalb einer Station:** "Weiter" und "Zurück" in der rechten Spalte.
-- **Vorhersagen:** Eine Antwort anklicken. Sie wird nicht bewertet, nur angezeigt; danach erscheint das Bild.
-- **Sprache:** DE oder EN oben rechts. Die Station bleibt beim aktuellen Schritt.
-- **Direktlinks:** `#E1` bis `#E4` und `#Q` springen zu einer Station, `#E3:4` zu einem bestimmten Schritt (Zählung ab 0).
-
-### Tastatur
-
-| Wo | Taste | Wirkung |
-|---|---|---|
-| überall | Tab, Enter, Leertaste | Element wählen und auslösen |
-| E1 | Leertaste | Abspielen und anhalten |
-| E1 | Pfeiltasten am Regler | Punktzahl N ändern |
-| E2 | Pfeiltasten am Regler | Abweichung um 0.0001 ändern |
-| E2 | Umschalt + Pfeil, Taste 0 | um 0.001 ändern, auf null setzen |
-| E3, Lupe | Pfeiltasten, Bild auf / Bild ab | anderer Punkt: ±1, ±50 |
-| E4 | Pfeiltasten am Regler | Ring verschieben |
-| E4 | G, L | goldener Winkel, Lucas-Winkel |
-
-## Darstellung und Belege
-
-- Jedes Bild trägt ein Kennzeichen. "Berechnet" heisst: genau so gerechnet, wie der Text es beschreibt, ohne Verschönerung. Vergrösserte Ausschnitte sind als solche markiert.
-- Die Seite unterscheidet Bewiesenes, Zitiertes und am Computer Beobachtetes. Die Einzelheiten stehen auf der Seite "Quellen und Methoden".
-- Alle Rechnungen sind mit automatischen Tests geprüft und von einem unabhängigen Python-Programm nachgerechnet.
-
-## Technik und Datenschutz
-
-- Statische Seite, gebaut mit Vite und TypeScript; Zeichnungen mit Canvas und SVG, Formeln mit KaTeX.
-- Keine Analyse, keine Cookies, keine externen Schriften oder Skripte. Gespeichert wird nur die gewählte Sprache, und zwar im eigenen Browser.
-- Ausgelegt für Laptop und Beamer ab 1280 × 720; geprüft in Microsoft Edge.
-- Dieses Archiv enthält nur die fertige Seite. Quellcode, Tests und Projektdokumentation liegen in einem privaten Archiv.
-
 ## Entstehung
 
 Diese Seite hat Jonas Mlinar im Leistungsnachweis "Maturarbeiten betreuen" an der PH Bern (HS 25) erstellt. Sie ist ein Testlauf dafür, wie Maturandinnen und Maturanden einen Coding Agent in einer Maturaarbeit einsetzen können. Den Code hat ein Coding Agent geschrieben (Claude von Anthropic). Die Entscheidungen und die Freigabe der Texte und Beweise lagen beim Verfasser.
